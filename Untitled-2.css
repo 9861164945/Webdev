@@ -1,0 +1,103 @@
+
+
+
+
+.er1{
+    border-radius: 100%;
+    border-bottom: 0cqh;
+    border:2px solid black;
+    text-align: center;
+    background-color: blue;
+    
+}
+.er1:hover{
+    background-color: red;
+}
+.er2{
+    border-radius: 100%;
+    border:2px solid black;
+
+    text-align: center;
+    background-color: blueviolet;
+    
+}
+.er2:hover{
+    background-color: darkred;
+}
+.er3{
+    border-radius: 100%;
+    border:2px solid black;
+
+    text-align: center;
+    background-color: blue;
+
+    
+}
+.er3:hover{
+    background-color: chartreuse ;
+}
+.er4{
+    border-radius: 100%;
+    border:2px solid black;
+
+    text-align: center;
+    background-color: brown;
+    
+}
+.er4:hover{
+    background-color: brown;
+}
+.er5{
+    border-radius: 100%;
+    border:2px solid black;
+
+    text-align: center;
+    background-color:chartreuse;
+    
+}
+.er5:hover{
+    background-color:blue ;
+}
+.er6{
+    border-radius: 100%;
+    border:2px solid black;
+
+    text-align: center;
+    background-color: darkred;
+    
+}
+.er6:hover{
+    background-color:blueviolet ;
+}
+.er7{
+    border-radius: 100%;
+    border:2px solid black;
+
+    text-align: center;
+    background-color: red;
+    
+}
+.er7:hover{
+    background-color: blue;
+}
+
+footer{
+    border: 4px solid grey;
+
+    border-top-left-radius: 1ream;
+    border-bottom-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius:1 rem ;
+    text-align: center;
+   background-color: darkolivegreen;
+}
+footer:hover{
+    border-radius: 50%;
+    background-color: gray;
+}
+a{
+    color:red;
+}
+a:hover{
+    color:blue;
+}
